@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ramirolynch
 - 👀 I’m interested in Web Programming.
-- 🌱 I’m currently learning React as well as Python and Django.
-- 💞️ I’m looking to collaborate on Python/Django projects.
+- 🌱 I’m currently learning Data Science with Python and Pandas.
+- 💞️ I’m looking to collaborate on Python and Django web applications.
 - 📫 How to reach me @ramicomedy on Twitter or Instagram.
 
 <!---
