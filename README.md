@@ -5,7 +5,7 @@
 - 📫 How to reach me @ramicomedy on Twitter or Instagram.
 
 - My last booking application project has been deployed to Heroku:
-- https://murmuring-crag-28593.herokuapp.com/coaches
+- https://murmuring-crag-28593.herokuapp.com/
 - Walk-through of the functionality of the app
 - https://www.youtube.com/watch?v=DC6ahOFNR-8&feature=youtu.be
 
