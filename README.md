@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning unit testing and react.
 - 📫 Contact me: @ramicode2 on Twitter
 
+- Latest project: Twitch curator "Switch'
+- Deployed with Github pages:
+- https://ramirolynch.github.io/
+
 - My last booking application project has been deployed to Heroku:
 - https://murmuring-crag-28593.herokuapp.com/
 - Walk-through of the functionality of the app
