@@ -4,8 +4,9 @@
 - 📫 Contact me: @ramicode2 on Twitter
 
 - Latest project: Twitch curator "Switch'
+- Features: Fetch Twitch API with Axios, useContext, localStorage, Favorites.
 - Deployed with Github pages:
-- https://ramirolynch.github.io/
+- https://ramirolynch.github.io/twitch-app/
 
 - My last booking application project has been deployed to Heroku:
 - https://murmuring-crag-28593.herokuapp.com/
