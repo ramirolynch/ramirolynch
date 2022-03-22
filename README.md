@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramirolynch
 - 👀 I’m interested in Web Programming.
-- 🌱 I’m currently learning unit testing and react.
+- 🌱 I’m currently learning postgresql.
 - 📫 Contact me: @ramicode2 on Twitter
 
 - Latest project: Twitch curator "Switch'
