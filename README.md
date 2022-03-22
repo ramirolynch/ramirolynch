@@ -3,7 +3,13 @@
 - 🌱 I’m currently learning postgresql.
 - 📫 Contact me: @ramicode2 on Twitter
 
-- Latest project: Twitch curator "Switch'
+- Latest project: 
+- Full stack to-do application with the PERN stack: Postgresql, Express, React, Node.
+- https://github.com/ramirolynch/todo-backend
+- https://github.com/ramirolynch/todo-frontend
+
+- Recent project
+- Twitch curator "Switch'
 - Features: Fetch Twitch API with Axios, useContext, localStorage, Favorites.
 - Deployed with Github pages:
 - https://ramirolynch.github.io/twitch-app/
