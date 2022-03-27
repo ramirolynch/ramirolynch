@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramirolynch
 - 👀 I’m interested in Web Programming.
-- 🌱 I’m currently learning postgresql.
+- 🌱 I’m currently developing an app to manage live events.
 - 📫 Contact me: @ramicode2 on Twitter
 
 - Latest project: 
