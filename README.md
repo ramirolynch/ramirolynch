@@ -3,7 +3,7 @@
 - 🌱 I’m currently developing an app to screen against US Government Denied Party Lists.
 
 - Denied Party Screening project (on-going): 
-- Full stack to-do application with the following technologies: Firebase authentication, Postgresql, Express, React, Node.
+- Full stack denied party screening application with the following technologies: Firebase authentication, Postgresql, Express, React, Node.
 - https://github.com/ramirolynch/screening-front
 - https://github.com/ramirolynch/screening-back
 
