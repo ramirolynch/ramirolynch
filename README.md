@@ -10,7 +10,7 @@
 - Link to deployed app: 
 - https://screening-front.vercel.app/login
 
-- My Java Blog (Postgresql database, Express Server, React with Bootstrap Frontend:
+- My Java Blog: Postgresql database, Express Server, React with Bootstrap Frontend:
 - https://blog-front-beta.vercel.app/
 
 - Contact:
