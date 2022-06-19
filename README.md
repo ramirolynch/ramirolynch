@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ramirolynch
-- 👀 I’m interested in Web Programming.
+- 👀 I’m interested in Web Programming / Software Engineering.
 - 🌱 I’m currently developing an app to screen against US Government Denied Party Lists.
 
 - Denied Party Screening project (on-going): 
